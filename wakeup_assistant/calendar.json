@@ -1,0 +1,47 @@
+{
+    "weekly": {
+        "Monday": [
+            {
+                "time": "09:00",
+                "summary": "週一團隊例會"
+            },
+            {
+                "time": "20:00",
+                "summary": "去健身房"
+            }
+        ],
+        "Tuesday": [
+            {
+                "time": "10:00",
+                "summary": "演算法課程"
+            }
+        ],
+        "Wednesday": [
+            {
+                "time": "14:00",
+                "summary": "專題討論"
+            }
+        ],
+        "Thursday": [],
+        "Friday": [
+            {
+                "time": "18:00",
+                "summary": "快樂週五晚餐"
+            }
+        ],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "specific": [
+        {
+            "date": "2026-01-20",
+            "time": "15:30",
+            "summary": "看牙醫"
+        },
+        {
+            "date": "2026-01-22",
+            "time": "22:00",
+            "summary": "朋友生日派對"
+        }
+    ]
+}

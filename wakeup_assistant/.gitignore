@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 敏感資訊
+config.py
+
+# 運行時產生的檔案
+state.json
+tts_output.mp3
+*.mp3
+*.wav
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 模型檔案 (太大，不適合上傳)
+vosk-model*/
+*.pv
+*.ppn
+
+# 其他
+*.log
