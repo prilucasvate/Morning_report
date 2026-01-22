@@ -4,6 +4,6 @@
 * When the trigger word is detected, the assistant will start a morning report.  It will tell you the time, weather, and calendar events.  
 * You can add some custom events to the calendar.json file.  The assistant will tell you the events in the calendar.json file.  
 
-* All code was written by Gemini in an antigravity
+* All code was written by Gemini in antigravity
 
 
